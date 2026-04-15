@@ -51,7 +51,7 @@ A production-ready multi-tenant SaaS starter kit built with **Laravel 12**, **Vu
 ### 1. Clone & install dependencies
 
 ```bash
-git clone <repo-url> multi-tenant-saas
+git clone https://github.com/sipcode5/multi-tenant-saas.git multi-tenant-saas
 cd multi-tenant-saas
 composer install
 npm install
